@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TMPlugIn</string>
+
+    <string name="load_file">加载文件</string>
+</resources>
